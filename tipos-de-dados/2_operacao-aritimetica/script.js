@@ -1,8 +1,16 @@
 
 
-console.log(typeof (2 + 3));
-console.log(typeof (5 - 12));
-console.log(typeof (4 * 4));
-console.log(typeof (5 / 3));
-console.log(typeof (20 % 2));
-console.log(typeof (21 % 2));
+console.log(10 + 4);
+console.log(4 - 10);
+console.log(10 * 4);
+console.log(10 / 4);
+console.log(10 % 4);
+console.log(12 % 4);
+
+
+console.log(typeof (10 + 4));
+console.log(typeof (4 - 10));
+console.log(typeof (10 * 4));
+console.log(typeof (10 / 4));
+console.log(typeof (10 % 4));
+console.log(typeof (12 % 4));
